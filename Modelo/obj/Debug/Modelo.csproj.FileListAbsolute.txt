@@ -1,0 +1,6 @@
+C:\Users\Ricardo\Documents\Proyectos de Visual Studio\Zemog\Modelo\bin\Debug\Modelo.dll
+C:\Users\Ricardo\Documents\Proyectos de Visual Studio\Zemog\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Ricardo\Documents\Proyectos de Visual Studio\Zemog\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Documents\Proyectos de Visual Studio\Zemog\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Proyectos de Visual Studio\Zemog\Modelo\obj\Debug\Modelo.dll
+C:\Users\Ricardo\Documents\Proyectos de Visual Studio\Zemog\Modelo\obj\Debug\Modelo.pdb
